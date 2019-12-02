@@ -1,4 +1,3 @@
-As a user I should be able to buy coins and add them to my overall balance
 *As a user  I should be able to post a question
 *As a user I should be able to set a bounty for my posted questions
 As a user I should be able to set who can view my question (public, private, by category)
@@ -8,6 +7,7 @@ As a user I should be able to set who can view my question (public, private, by 
 As a user, once my question has been answered, I should be able to approve the answer.
 As a user, once my question has been answered, I should be able to rate the answer.
 As a user, once my question has been answered and approved, the bounty should be taken from my coin balance
+As a user I should be able to buy coins and add them to my overall balance
 
 As a user, I should be given a selection of questions by category.
 As a user, I should be able to preview questions.
