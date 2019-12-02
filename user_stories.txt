@@ -1,0 +1,22 @@
+As a user I should be able to buy coins and add them to my overall balance
+As a user  I should be able to post a question
+As a user I should be able to set a bounty for my posted questions
+As a user I should be able to set who can view my question (public, private, by category)
+As a user, once I have posted a question, I should be able to edit it
+As a user, once I have posted a question, I should be able to delete it.
+As a user, once I have received an answer, I should not be able to delete my post.
+As a user, once my question has been answered, I should be able to approve the answer.
+As a user, once my question has been answered, I should be able to rate the answer.
+As a user, once my question has been answered and approved, the bounty should be taken from my coin balance
+
+As a user, I should be given a selection of questions by category.
+As a user, I should be able to preview questions.
+As a user, I should be able to report inappropriate questions
+As a user, I should be able to view questions.
+As a user, I should be able to contribute towards a bounty on a question.
+As a user, I should be able to answer a question.
+As a user, I should be able to rate the asker of a question if my question is approved or denied
+As a user, if my answer is approved, I should receive the bounty on the question
+
+As a user, I should be able to trade back my earned coins for money (less than the purchase value)
+
