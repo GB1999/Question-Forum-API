@@ -38,6 +38,7 @@ class Question
     property :Description, Text
     property :Genre, Text
     property :image_url, Text
+    property :bounty, Integer
     property :Answered, Boolean
     property :created_at,  DateTime
     property :role_id, Integer, default: 1
@@ -53,6 +54,14 @@ class Answer
     property :role_id, Integer, default: 1
 end
 
+class Comment
+  include DataMapper::Resource
+  property :id,  Serial
+  property :user_id,  Integer
+  property :post_id,  Integer
+  property  :text, Text
+  property :created_at,  DateTime
+end
 
 
 # Perform basic sanity checks and initialize all relationships
