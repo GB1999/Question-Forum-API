@@ -80,7 +80,7 @@ GEM
     do_sqlite3 (0.10.17-x86-mingw32)
       data_objects (= 0.10.17)
     dry-inflector (0.1.2)
-    excon (0.62.0)
+    excon (0.71.0)
     fastercsv (1.5.5)
     fission (0.5.0)
       CFPropertyList (~> 2.2)
