@@ -296,7 +296,7 @@ GEM
     thread_safe (0.3.6)
     tilt (2.0.9)
     trollop (2.9.9)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uuidtools (2.1.5)
     xml-simple (1.1.5)
